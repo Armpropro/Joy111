@@ -1,0 +1,8 @@
+{
+  "name": "Gamepad Rumble Tester (เครื่องมือทดสอบระบบสั่น)",
+  "description": "เว็บไซต์สำหรับทดสอบปุ่มและระบบสั่นของจอยคอนโทรลเลอร์ (PS4, Xbox, Generic) อย่างละเอียด พร้อมฟังก์ชันปรับความแรงและโหมดการสั่นที่หลากหลาย",
+  "requestFramePermissions": [
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
